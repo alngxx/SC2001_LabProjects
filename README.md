@@ -1,4 +1,2 @@
-# SC2001-Projects
-SC2001 - Algorithm Design &amp; Analysis projects
-
+# SC2001- Algorithm Design and Analysis
 - Project 1: Integration of Merge and Insertion Sort
